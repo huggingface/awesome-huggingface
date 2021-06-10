@@ -18,3 +18,4 @@
 * [TurboTransformers](https://github.com/Tencent/TurboTransformers) - TurboTransformers (from Tencent) is an inference engine for transformers with fast C++ API.
 * [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - FasterTransformer (from Nvidia) provides a script and recipe to run the highly optimized transformer-based encoder and decoder component on NVIDIA GPUs.
 * [lightseq](https://github.com/bytedance/lightseq) - lightseq (from ByteDance) is a high performance inference library for sequence processing and generation implemented in CUDA.
+* [FastSeq](https://github.com/microsoft/fastseq) - FastSeq (from Microsoft) provides efficient implementation of popular sequence models (e.g. Bart, ProphetNet) for text generation, summarization, translation tasks etc
