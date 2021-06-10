@@ -18,4 +18,12 @@
 * [TurboTransformers](https://github.com/Tencent/TurboTransformers) - TurboTransformers (from Tencent) is an inference engine for transformers with fast C++ API.
 * [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - FasterTransformer (from Nvidia) provides a script and recipe to run the highly optimized transformer-based encoder and decoder component on NVIDIA GPUs.
 * [lightseq](https://github.com/bytedance/lightseq) - lightseq (from ByteDance) is a high performance inference library for sequence processing and generation implemented in CUDA.
-* [FastSeq](https://github.com/microsoft/fastseq) - FastSeq (from Microsoft) provides efficient implementation of popular sequence models (e.g. Bart, ProphetNet) for text generation, summarization, translation tasks etc
+* [FastSeq](https://github.com/microsoft/fastseq) - FastSeq (from Microsoft) provides efficient implementation of popular sequence models (e.g., Bart, ProphetNet) for text generation, summarization, translation tasks etc.
+
+## Model Compression/Acceleration
+*Compressing or accelerate models for improved inference speed.*
+* [nn_pruning](https://github.com/huggingface/nn_pruning) - Prune a model while finetuning or training.
+* [BERT-of-Theseus](https://github.com/JetRunner/BERT-of-Theseus) - Compressing BERT by progressively replacing the components of the original BERT.
+* [TextBrewer](https://github.com/airaria/TextBrewer) - State-of-the-art distillation methods to compress language models.
+
+
