@@ -25,3 +25,9 @@
 * [nn_pruning](https://github.com/huggingface/nn_pruning) (from Hugging Face) - nn_pruning is a toolkit Prune a model while finetuning or training.
 * [TextBrewer](https://github.com/airaria/TextBrewer) (from HFL) - State-of-the-art distillation methods to compress language models.
 * [BERT-of-Theseus](https://github.com/JetRunner/BERT-of-Theseus) (from Microsoft) - Compressing BERT by progressively replacing the components of the original BERT.
+
+
+## Adversarial Attack
+*Conducting adversarial attack to test model robustness.*
+* [TextAttack](https://github.com/QData/TextAttack) (from UVa) -  A Python framework for adversarial attacks, data augmentation, and model training in NLP.
+* [TextFlint](https://github.com/textflint/textflint) (from FudanU) - A unified multilingual robustness evaluation toolkit for NLP.
