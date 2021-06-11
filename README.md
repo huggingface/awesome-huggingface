@@ -1,5 +1,5 @@
 # awesome-huggingface
-🤗 Hugging Face eco-system
+🤗 Hugging Face Eco-system: List of wonderful open-source projects based on Hugging Face libraries.
 
 ## Official Libraries
 *First-party cool stuff made with ❤️ by 🤗 Hugging Face.*
