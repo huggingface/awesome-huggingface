@@ -28,7 +28,6 @@
 
 ## 🏎️ Model Compression/Acceleration
 *Compressing or accelerate models for improved inference speed.*
-* [nn_pruning](https://github.com/huggingface/nn_pruning) (from Hugging Face) - nn_pruning is a toolkit Prune a model while finetuning or training.
 * [TextBrewer](https://github.com/airaria/TextBrewer) (from HFL) - State-of-the-art distillation methods to compress language models.
 * [BERT-of-Theseus](https://github.com/JetRunner/BERT-of-Theseus) (from Microsoft) - Compressing BERT by progressively replacing the components of the original BERT.
 
