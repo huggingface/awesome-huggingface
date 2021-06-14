@@ -12,6 +12,9 @@
 * [nn_pruning](https://github.com/huggingface/nn_pruning) - Prune a model while finetuning or training.
 * [huggingface_hub](https://github.com/huggingface/huggingface_hub) - Client library to download and publish models and other files on the huggingface.co hub.
 
+## 👩‍🏫 Tutorials
+* [transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials) (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
+
 ## 🥡 Sentence Representation
 *Converting a sentence to a vector.*
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) (from UKPLab) - Widely used encoders computing dense vector representations for sentences, paragraphs, and images.
