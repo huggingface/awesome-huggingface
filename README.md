@@ -17,6 +17,8 @@
 * [huggingface_hub](https://github.com/huggingface/huggingface_hub) - Client library to download and publish models and other files on the huggingface.co hub.
 
 ## 👩‍🏫 Tutorials
+*Learn how to use Hugging Face toolkits, step-by-step.*
+* [Official Course](https://huggingface.co/course) (from Hugging Face) - The official course series provided by 🤗 Hugging Face.
 * [transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials) (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
 ## 🥡 Sentence Representation
