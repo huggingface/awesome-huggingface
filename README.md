@@ -90,3 +90,7 @@
 ## 🤖 Reinforcement Learning
 *Combining RL magic with NLP!*
 * [trl](https://github.com/lvwerra/trl) - Fine-tune transformers using Proximal Policy Optimization (PPO) to align with human preferences.
+
+## ❓ Question Answering
+*Searching for answers? Transformers to the rescue!*
+* [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild. 
