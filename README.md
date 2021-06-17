@@ -72,6 +72,7 @@
 ## 🗺 Translation
 *Translating between different languages.*
 * [dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library based on HF Transformers.
+* [EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy-to-use, state-of-the-art translation library and Docker images based on HF Transformers.
 
 ## 📖 Knowledge and Entity
 *Learning knowledge, mining entities, connecting the world.*
