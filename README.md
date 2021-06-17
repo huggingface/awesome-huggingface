@@ -5,6 +5,8 @@
 # awesome-huggingface [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 🤗 Hugging Face Eco-system: List of wonderful open-source projects based on Hugging Face libraries.
 
+[How to contribute](https://github.com/huggingface/awesome-huggingface/blob/main/CONTRIBUTING.md)
+
 ## 🤗 Official Libraries
 *First-party cool stuff made with ❤️ by 🤗 Hugging Face.*
 * [transformers](https://github.com/huggingface/transformers) - State-of-the-art natural language processing for Jax, PyTorch and TensorFlow.
