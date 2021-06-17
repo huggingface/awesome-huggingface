@@ -21,6 +21,11 @@
 * [Official Course](https://huggingface.co/course) (from Hugging Face) - The official course series provided by 🤗 Hugging Face.
 * [transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials) (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
+## 🧰 NLP Toolkits
+*NLP toolkits built upon Transformers.*
+* [AllenNLP](https://github.com/allenai/allennlp) (from AI2) - An open-source NLP research library.
+* [Graph4NLP](https://github.com/graph4ai/graph4nlp) - Enabling easy use of Graph Neural Networks for NLP.
+
 ## 🥡 Sentence Representation
 *Converting a sentence to a vector.*
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) (from UKPLab) - Widely used encoders computing dense vector representations for sentences, paragraphs, and images.
