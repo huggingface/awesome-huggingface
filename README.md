@@ -69,6 +69,14 @@
 *You made a typo! Let me correct it.*
 * [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text.
 
+## 🗺 Translation
+*Translating between different languages.*
+* [dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library based on HF Transformers.
+
+## 📖 Knowledge and Entity
+*Learning knowledge, mining entities, connecting the world.*
+* [PURE](https://github.com/princeton-nlp/PURE) (from Princeton) - Entity and relation extraction from text.
+
 ## 🎙 Speech
 *Speech processing powered by HF libraries. Need for speech!*
 * [s3prl](https://github.com/s3prl/s3prl) - A self-supervised speech pre-training and representation learning toolkit.
