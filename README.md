@@ -57,7 +57,7 @@
 * [OpenAttack](https://github.com/thunlp/OpenAttack) (from THU) - An open-source textual adversarial attack toolkit.
 
 ## 🔁 Style Transfer
-*Tansfer the style of text! Now you know why it's called transformer?*
+*Transfer the style of text! Now you know why it's called transformer?*
 * [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - A neural language style transfer framework to transfer text smoothly between styles.
 * [ConSERT](https://github.com/yym6472/ConSERT) - A contrastive framework for self-supervised sentence representation transfer.
 
@@ -86,3 +86,7 @@
 ## 🤯 Multi-modal
 *Understanding the world from different modalities.*
 * [ViLT](https://github.com/dandelin/ViLT) (from Kakao) - A vision-and-language transformer Without convolution or region supervision.
+
+## 🤖 Reinforcement Learning
+*Combining RL magic with NLP!*
+* [trl](https://github.com/lvwerra/trl) - Fine-tune transformers using Proximal Policy Optimization (PPO) to align with human preferences.
