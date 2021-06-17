@@ -60,7 +60,6 @@
 *Transfer the style of text! Now you know why it's called transformer?*
 * [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - A neural language style transfer framework to transfer text smoothly between styles.
 * [ConSERT](https://github.com/yym6472/ConSERT) - A contrastive framework for self-supervised sentence representation transfer.
-* [Transformer Reinforcement Learning](https://github.com/lvwerra/trl) -
 
 ## 💢 Sentiment Analysis
 *Analyzing the sentiment and emotions of human beings.*
