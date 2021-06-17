@@ -3,7 +3,7 @@
 </p>
 
 # awesome-huggingface
-🤗 Hugging Face Eco-system: List of wonderful open-source projects based on Hugging Face libraries.
+🤗 Hugging Face Ecosystem: A list of wonderful open-source projects based on Hugging Face libraries.
 
 [How to contribute](https://github.com/huggingface/awesome-huggingface/blob/main/CONTRIBUTING.md)
 
