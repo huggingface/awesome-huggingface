@@ -87,5 +87,5 @@
 * [ViLT](https://github.com/dandelin/ViLT) (from Kakao) - A vision-and-language transformer Without convolution or region supervision.
 
 ## 🤖 Reinforcement Learning
-*Using reinforcement learning to guide training and natural language generation!*
+*Combining RL magic with NLP!*
 * [trl](https://github.com/lvwerra/trl) - Fine-tune transformers using Proximal Policy Optimization (PPO) to align with human preferences.
