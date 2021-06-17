@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg?token=AFLYUK4HQBJT734TLKYP2R3A2CKW2" width="100px">
 </p>
 
-# awesome-huggingface [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-huggingface
 🤗 Hugging Face Eco-system: List of wonderful open-source projects based on Hugging Face libraries.
 
 [How to contribute](https://github.com/huggingface/awesome-huggingface/blob/main/CONTRIBUTING.md)
