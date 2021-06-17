@@ -2,7 +2,14 @@
 <img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg?token=AFLYUK4HQBJT734TLKYP2R3A2CKW2" width="100px">
 </p>
 
-# How to Contribute
+# Contributing
+
+## Selection Criteria
+To add a wonderful repo to this list of HF eco-system, please make sure the repo-to-add satisfies the following conditions:
+- It is built on, or an extension of 🤗 libraries (transformers, datasets, hub, etc.)
+- It has >100 stars *or* is published in a top-tier conference (ACL, EMNLP, NAACL, ICML, NeurIPS, ICLR, etc.) If you are very confident about the quality of the repo, there can be exceptions.
+
+## How to Contribute
 
 Thanks for your interst in contributing to `awesome-huggingface`! If you want to add any repo to the list, please follow the two-step guidance:
 1. If there is already a category that fits the repo-to-add, you can simply make a **pull request**.
