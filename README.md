@@ -24,15 +24,17 @@
 * [transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials) (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
 ## 🧰 NLP Toolkits
-*NLP toolkits built upon Transformers.*
+*NLP toolkits built upon Transformers. Swiss Army!*
 * [AllenNLP](https://github.com/allenai/allennlp) (from AI2) - An open-source NLP research library.
 * [Graph4NLP](https://github.com/graph4ai/graph4nlp) - Enabling easy use of Graph Neural Networks for NLP.
+* [Lightning Transformers](https://github.com/PyTorchLightning/lightning-transformers) - Transformers with PyTorch Lightning interface.
 
-## 🥡 Sentence Representation
+## 🥡 Text Representation
 *Converting a sentence to a vector.*
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) (from UKPLab) - Widely used encoders computing dense vector representations for sentences, paragraphs, and images.
 * [WhiteningBERT](https://github.com/Jun-jie-Huang/WhiteningBERT) (from Microsoft) - An easy unsupervised sentence embedding approach with whitening.
 * [SimCSE](https://github.com/princeton-nlp/SimCSE) (from Princeton) - State-of-the-art sentence embedding with contrastive learning.
+* [DensePhrases](https://github.com/princeton-nlp/DensePhrases) (from Princeton) - Learning dense representations of phrases at scale.
 
 ## ⚙️ Inference Engines
 *Highly optimized inference engines implementing Transformers-compatible APIs.*
@@ -44,6 +46,7 @@
 
 ## 🏎️ Model Compression/Acceleration
 *Compressing or accelerate models for improved inference speed.*
+* [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - PyTorch-based modular, configuration-driven framework for knowledge distillation.
 * [TextBrewer](https://github.com/airaria/TextBrewer) (from HFL) - State-of-the-art distillation methods to compress language models.
 * [BERT-of-Theseus](https://github.com/JetRunner/BERT-of-Theseus) (from Microsoft) - Compressing BERT by progressively replacing the components of the original BERT.
 
@@ -51,3 +54,26 @@
 *Conducting adversarial attack to test model robustness.*
 * [TextAttack](https://github.com/QData/TextAttack) (from UVa) -  A Python framework for adversarial attacks, data augmentation, and model training in NLP.
 * [TextFlint](https://github.com/textflint/textflint) (from Fudan) - A unified multilingual robustness evaluation toolkit for NLP.
+* [OpenAttack](https://github.com/thunlp/OpenAttack) (from THU) - An open-source textual adversarial attack toolkit.
+
+## 🔁 Style Transfer
+*Tansfer the style of text! Now you know why it's called transformer?*
+* [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - A neural language style transfer framework to transfer text smoothly between styles.
+* [ConSERT](https://github.com/yym6472/ConSERT) - A contrastive framework for self-supervised sentence representation transfer.
+
+## 💢 Sentiment Analysis
+*Analyzing the sentiment and emotions of human beings.*
+* [conv-emotion](https://github.com/declare-lab/conv-emotion) - Implementation of different architectures for emotion recognition in conversations.
+
+## 🙅 Grammatical Error Correction
+*You made a typo! Let me correct it.*
+* [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text.
+
+## 🎙 Speech
+*Speech processing powered by HF libraries. Need for speech!*
+* [s3prl](https://github.com/s3prl/s3prl) - A self-supervised speech pre-training and representation learning toolkit.
+* [speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based speech toolkit.
+
+## 🤯 Multi-modal
+*Understanding the world from different modalities.*
+* [ViLT](https://github.com/dandelin/ViLT) (from Kakao) - A vision-and-language transformer Without convolution or region supervision.
