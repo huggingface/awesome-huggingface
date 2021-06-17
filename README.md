@@ -83,7 +83,7 @@ This is a list of wonderful open-source projects & applications integrated with 
 * [s3prl](https://github.com/s3prl/s3prl) - A self-supervised speech pre-training and representation learning toolkit.
 * [speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based speech toolkit.
 
-## 🤯 Multi-modal
+## 🤯 Multi-modality
 *Understanding the world from different modalities.*
 * [ViLT](https://github.com/dandelin/ViLT) (from Kakao) - A vision-and-language transformer Without convolution or region supervision.
 
