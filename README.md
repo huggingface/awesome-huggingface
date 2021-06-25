@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg?token=AFLYUK4HQBJT734TLKYP2R3A2CKW2" width="100px">
+<img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" width="100px">
 </p>
 
 # awesome-huggingface
