@@ -17,6 +17,7 @@ This is a list of wonderful open-source projects & applications integrated with 
 * [autonlp](https://github.com/huggingface/autonlp) - Train state-of-the-art natural language processing models and deploy them in a scalable environment automatically.
 * [nn_pruning](https://github.com/huggingface/nn_pruning) - Prune a model while finetuning or training.
 * [huggingface_hub](https://github.com/huggingface/huggingface_hub) - Client library to download and publish models and other files on the huggingface.co hub.
+* [tune](https://github.com/huggingface/tune) - A benchmark for comparing Transformer-based models.
 
 ## 👩‍🏫 Tutorials
 *Learn how to use Hugging Face toolkits, step-by-step.*
@@ -94,3 +95,17 @@ This is a list of wonderful open-source projects & applications integrated with 
 ## ❓ Question Answering
 *Searching for answers? Transformers to the rescue!*
 * [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild. 
+
+## 🔍 Neural Search
+*Search, but with the power of neural networks!*
+* [Jina Integration](https://github.com/jina-ai/jina-hub/tree/master/encoders/nlp/TransformerTorchEncoder) - Jina integration of Hugging Face Accelerated API.
+* [Weaviate Integration](https://medium.com/semi-technologies/weaviate-version-1-2-x-now-supports-transformer-models-4a12d858cce3) - Weaviate integration of Hugging Face Transformers.
+
+## ☁ Cloud
+*Cloud makes your life easy!*
+* [Amazon SageMaker](https://huggingface.co/transformers/sagemaker.html) - Making it easier than ever to train Hugging Face Transformer models in Amazon SageMaker.
+
+## 📱 Hardware
+*The infrastructure enabling the magic to happen.*
+* [Qualcomm](https://www.qualcomm.com/news/onq/2020/12/02/exploring-ai-capabilities-qualcomm-snapdragon-888-mobile-platform) - Collaboration on enabling Transformers in SnapDragon.
+* [Intel](https://github.com/huggingface/tune) - Collaboration with Intel for configuration options.
