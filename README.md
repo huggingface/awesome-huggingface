@@ -107,5 +107,5 @@ This is a list of wonderful open-source projects & applications integrated with 
 
 ## 📱 Hardware
 *The infrastructure enabling the magic to happen.*
-* [Qualcomm](https://www.qualcomm.com/news/onq/2020/12/02/exploring-ai-capabilities-qualcomm-snapdragon-888-mobile-platform) - Collaboration on enabling Transformers in SnapDragon.
+* [Qualcomm](https://www.qualcomm.com/news/onq/2020/12/02/exploring-ai-capabilities-qualcomm-snapdragon-888-mobile-platform) - Collaboration on enabling Transformers in Snapdragon.
 * [Intel](https://github.com/huggingface/tune) - Collaboration with Intel for configuration options.
