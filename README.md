@@ -3,7 +3,7 @@
 </p>
 
 # awesome-huggingface
-This is a list of wonderful open-source projects & applications integrated with Hugging Face libraries.
+This is a list of some wonderful open-source projects & applications integrated with Hugging Face libraries.
 
 [How to contribute](https://github.com/huggingface/awesome-huggingface/blob/main/CONTRIBUTING.md)
 
