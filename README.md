@@ -29,6 +29,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [AllenNLP](https://github.com/allenai/allennlp) (from AI2) - An open-source NLP research library.
 * [Graph4NLP](https://github.com/graph4ai/graph4nlp) - Enabling easy use of Graph Neural Networks for NLP.
 * [Lightning Transformers](https://github.com/PyTorchLightning/lightning-transformers) - Transformers with PyTorch Lightning interface.
+* [Adapter Transformers](https://github.com/Adapter-Hub/adapter-transformers) - Extension the Transformers library, integrating adapters into state-of-the-art language models
 
 ## 🥡 Text Representation
 *Converting a sentence to a vector.*
