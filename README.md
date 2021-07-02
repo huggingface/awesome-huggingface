@@ -30,6 +30,8 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [Graph4NLP](https://github.com/graph4ai/graph4nlp) - Enabling easy use of Graph Neural Networks for NLP.
 * [Lightning Transformers](https://github.com/PyTorchLightning/lightning-transformers) - Transformers with PyTorch Lightning interface.
 * [Adapter Transformers](https://github.com/Adapter-Hub/adapter-transformers) - Extension to the Transformers library, integrating adapters into state-of-the-art language models.
+* [Obsei](https://github.com/lalitpagaria/obsei) - Obsei is a low-code AI workflow automation tool and performs various NLP tasks in the workflow pipeline. 
+
 
 ## 🥡 Text Representation
 *Converting a sentence to a vector.*
