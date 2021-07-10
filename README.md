@@ -98,7 +98,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 ## ❓ Question Answering
 *Searching for answers? Transformers to the rescue!*
 * [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild.
-* [Weaviate Integration](https://www.semi.technology/developers/weaviate/current/modules/qna-transformers.html) - Weaviate integration of Hugging Face Transformers.
+* [Weaviate Integration](https://www.semi.technology/developers/weaviate/current/modules/qna-transformers.html) - Weaviate integration of Hugging Face Q&A Transformers.
 
 ## 🔍 Neural Search
 *Search, but with the power of neural networks!*
