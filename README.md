@@ -97,12 +97,13 @@ This is a list of some wonderful open-source projects & applications integrated 
 
 ## ❓ Question Answering
 *Searching for answers? Transformers to the rescue!*
-* [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild. 
+* [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild.
+* [Weaviate Integration](https://www.semi.technology/developers/weaviate/current/modules/qna-transformers.html) - Weaviate integration of Hugging Face Transformers.
 
 ## 🔍 Neural Search
 *Search, but with the power of neural networks!*
 * [Jina Integration](https://github.com/jina-ai/jina-hub/tree/master/encoders/nlp/TransformerTorchEncoder) - Jina integration of Hugging Face Accelerated API.
-* [Weaviate Integration](https://medium.com/semi-technologies/weaviate-version-1-2-x-now-supports-transformer-models-4a12d858cce3) - Weaviate integration of Hugging Face Transformers.
+* [Weaviate Integration](https://www.semi.technology/developers/weaviate/current/modules/text2vec-transformers.html) - Weaviate integration of Hugging Face Transformers.
 * [ColBERT](https://github.com/stanford-futuredata/ColBERT) (from Stanford) - A fast and accurate retrieval model, enabling scalable BERT-based search over large text collections in tens of milliseconds.
 
 ## ☁ Cloud
