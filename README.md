@@ -97,7 +97,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 
 ## ❓ Question Answering
 *Searching for answers? Transformers to the rescue!*
-* [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild.
+* [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild. 
 
 ## 🔍 Neural Search
 *Search, but with the power of neural networks!*
