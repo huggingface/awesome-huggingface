@@ -97,7 +97,12 @@ This is a list of some wonderful open-source projects & applications integrated 
 
 ## ❓ Question Answering
 *Searching for answers? Transformers to the rescue!*
-* [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild. 
+* [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild.
+
+## ⚖️ Evauation
+*Evaluating NLP outputs powered by HF datasets!*
+
+* [Jury](https://github.com/obss/jury) (from OBSS) - Easy to use tool for evaluating NLP model outputs, spesifically for NLG (Natural Language Generation), offering various automated text-to-text metrics.
 
 ## 🔍 Neural Search
 *Search, but with the power of neural networks!*
