@@ -99,6 +99,10 @@ This is a list of some wonderful open-source projects & applications integrated 
 *Searching for answers? Transformers to the rescue!*
 * [Haystack](https://haystack.deepset.ai/) (from deepset) - End-to-end framework for developing and deploying question-answering systems in the wild.
 
+## 💁 Recommender Systems
+*I think this is just right for you!*
+* [Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) (from Nvidia) - A flexible and efficient library powered by Transformers for sequential and session-based recommendations.
+
 ## ⚖️ Evauation
 *Evaluating NLP outputs powered by HF datasets!*
 
