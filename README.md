@@ -31,6 +31,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [Lightning Transformers](https://github.com/PyTorchLightning/lightning-transformers) - Transformers with PyTorch Lightning interface.
 * [Adapter Transformers](https://github.com/Adapter-Hub/adapter-transformers) - Extension to the Transformers library, integrating adapters into state-of-the-art language models.
 * [Obsei](https://github.com/obsei/obsei) - A low-code AI workflow automation tool and performs various NLP tasks in the workflow pipeline. 
+* [Trapper](https://github.com/obss/trapper) (from OBSS) - State-of-the-art NLP through transformer models in a modular design and consistent APIs.
 
 
 ## 🥡 Text Representation
