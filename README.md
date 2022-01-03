@@ -49,7 +49,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [lightseq](https://github.com/bytedance/lightseq) (from ByteDance) - A high performance inference library for sequence processing and generation implemented in CUDA.
 * [FastSeq](https://github.com/microsoft/fastseq) (from Microsoft) - Efficient implementation of popular sequence models (e.g., Bart, ProphetNet) for text generation, summarization, translation tasks etc.
 
-## 🌗 Model Parallelism
+## 🌗 Model Scalability
 *Parallelization models across multiple GPUs.*
 * [Parallelformers](https://github.com/tunib-ai/parallelformers) (from TUNiB) - A library for model parallel deployment.
 * [OSLO](https://github.com/tunib-ai/oslo) (from TUNiB) - A library that supports various features to help you train large-scale models.
