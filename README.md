@@ -51,7 +51,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 
 ## 🌗 Model Parallelism
 *Parallelization models across multiple GPUs.*
-* [Parallelformers](https://github.com/tunib-ai/parallelformers) (from TUNiB) - An engine for transformers model parallel deployment
+* [Parallelformers](https://github.com/tunib-ai/parallelformers) (from TUNiB) - A library for model parallel deployment.
 * [OSLO](https://github.com/tunib-ai/oslo) (from TUNiB) - A library that supports various features to help you train large-scale models.
 
 ## 🏎️ Model Compression/Acceleration
