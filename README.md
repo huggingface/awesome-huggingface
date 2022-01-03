@@ -53,6 +53,8 @@ This is a list of some wonderful open-source projects & applications integrated 
 *Parallelization models across multiple GPUs.*
 * [Parallelformers](https://github.com/tunib-ai/parallelformers) (from TUNiB) - A library for model parallel deployment.
 * [OSLO](https://github.com/tunib-ai/oslo) (from TUNiB) - A library that supports various features to help you train large-scale models.
+* [Deepspeed](https://github.com/microsoft/DeepSpeed) (from Microsoft) - Deepspeed-ZeRO - scales any model size with zero to no changes to the model. [Integrated with HF Trainer](https://huggingface.co/docs/transformers/master/main_classes/deepspeed).
+* [fairscale](https://github.com/facebookresearch/fairscale) (from Facebook) - Implements ZeRO protocol as well. [Integrated with HF Trainer](https://huggingface.co/docs/transformers/master/main_classes/trainer#fairscale).
 
 ## 🏎️ Model Compression/Acceleration
 *Compressing or accelerate models for improved inference speed.*
