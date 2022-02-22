@@ -55,6 +55,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [OSLO](https://github.com/tunib-ai/oslo) (from TUNiB) - A library that supports various features to help you train large-scale models.
 * [Deepspeed](https://github.com/microsoft/DeepSpeed) (from Microsoft) - Deepspeed-ZeRO - scales any model size with zero to no changes to the model. [Integrated with HF Trainer](https://huggingface.co/docs/transformers/master/main_classes/deepspeed).
 * [fairscale](https://github.com/facebookresearch/fairscale) (from Facebook) - Implements ZeRO protocol as well. [Integrated with HF Trainer](https://huggingface.co/docs/transformers/master/main_classes/trainer#fairscale).
+* [ColossalAI](https://github.com/hpcaitech/colossalai) (from Hpcaitech) - A Unified Deep Learning System for Large-Scale Parallel Training (1D, 2D, 2.5D, 3D and sequence parallelism, and ZeRO protocol).
 
 ## 🏎️ Model Compression/Acceleration
 *Compressing or accelerate models for improved inference speed.*
