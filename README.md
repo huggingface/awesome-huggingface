@@ -95,6 +95,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 *Speech processing powered by HF libraries. Need for speech!*
 * [s3prl](https://github.com/s3prl/s3prl) - A self-supervised speech pre-training and representation learning toolkit.
 * [speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based speech toolkit.
+* [asr-as-a-service](https://github.com/flozi00/asr-as-a-service) - An open source ASR as a service Server
 
 ## 🤯 Multi-modality
 *Understanding the world from different modalities.*
