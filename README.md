@@ -25,7 +25,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials) (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
 ## Awesome Collections 
-*As part of Hacktoberfest 2023, we are collection awesome Collections!*
+*As part of Hacktoberfest 2023, we are collecting awesome Collections!*
 * [Awesome Collections page](awesome_collections.md)
 
 ## 🧰 NLP Toolkits
