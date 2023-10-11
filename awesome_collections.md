@@ -10,4 +10,4 @@
 
 ## Awesome Automatically Generated Hugging Face Collections
 
-- [smol models](https://huggingface.co/collections/librarian-bots/smol-models-652032729004117947dc4f27) is a collection of models on the Hub which are smaller than 50MB created via [this notebook](https://huggingface.co/spaces/librarian-bots/tutorials/blob/main/smol_models_collection.ipynb)
+- [smol models](https://huggingface.co/collections/librarian-bots/smol-models-652032729004117947dc4f27) (by [librarian-bots](https://huggingface.co/librarian-bots)) is a collection of models on the Hub which are smaller than 50MB created via [this notebook](https://huggingface.co/spaces/librarian-bots/tutorials/blob/main/smol_models_collection.ipynb)
