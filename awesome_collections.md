@@ -2,7 +2,7 @@
 
 <p align="center"><em>🎃 Note as part of [Hacktoberfest 2023](https://hacktoberfest.com/), we're looking for contributions to this page! If you have a collection you'd like to add, please submit a PR! See this issue for more context! #TODO add issue link 🎃</em></p>
 
-[Hugging Face Collections](https://huggingface.co/docs/hub/collections) provide a way of curating repositories from the Hub (Models, Datasets, Spaces and Papers) on a dedicated page. This page collects some examples of awesome collections! 
+[Hugging Face Collections](https://huggingface.co/docs/hub/collections) provide a way of curating repositories from the Hub (models, datasets, Spaces and papers) on a dedicated page. This page collects some examples of awesome collections! 
 
 ## Awesome Hand Curated Hugging Face Collections
 - [Historic Multilingual Language Models](https://huggingface.co/collections/stefan-it/%F0%9F%93%9A-historic-multilingual-language-models-64f9c4f8383bbd73dddd2240) a Collection of Historic Multilingual Language Models. 
