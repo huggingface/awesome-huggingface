@@ -7,6 +7,8 @@
 ## Awesome Hand Curated Hugging Face Collections
 - [Historic Multilingual Language Models](https://huggingface.co/collections/stefan-it/%F0%9F%93%9A-historic-multilingual-language-models-64f9c4f8383bbd73dddd2240) (_by [stefan-it](https://huggingface.co/stefan-it)_) - a collection of Historic Multilingual Language Models. 
 - [Protein Design & Protein Structure Prediction](https://huggingface.co/collections/simonduerr/protein-design---protein-structure-prediction-64f9c6fda9295717466dbe8f) (_by [simonduerr](https://huggingface.co/simonduerr)_) - Interactive Demos that can be used for protein structure prediction using AlphaFold2 or RoseTTAfold2, prediction of small metal ions.
+- [👐🏻Accessible🧱Gradio🦹🏻🦸🏻‍♀️Themes](https://huggingface.co/collections/MultiTransformer/accessiblegradiothemes-65144019e31c0e2e3df7c411) (_by [MultiTransformer](https://huggingface.co/MultiTransformer)_) - Accessible Gradio Themes That Are Fun & Exciting , open organisation : join us today!
+- [🛺🤖Autogen❤️Gradio🤗Huggingface](https://huggingface.co/collections/MultiTransformer/accessiblegradiothemes-65144019e31c0e2e3df7c411) (_by [MultiTransformer](https://huggingface.co/MultiTransformer)_) - Microsoft's Autogen Library Tutorials from the community to the community !
 
 ## Awesome Automatically Generated Hugging Face Collections
 
