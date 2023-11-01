@@ -117,9 +117,10 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) (from Nvidia) - A flexible and efficient library powered by Transformers for sequential and session-based recommendations.
 
 ## ⚖️ Evaluation
-*Evaluating NLP outputs powered by HF datasets!*
+*Evaluating model outputs and data quality powered by HF datasets!*
 
 * [Jury](https://github.com/obss/jury) (from OBSS) - Easy to use tool for evaluating NLP model outputs, spesifically for NLG (Natural Language Generation), offering various automated text-to-text metrics.
+* [Spotlight](https://github.com/Renumics/spotlight) - Interactively explore your HF dataset with one line of code. Use model results (e.g. embeddings, predictions) to understand critical data segments and model failure modes.
 
 ## 🔍 Neural Search
 *Search, but with the power of neural networks!*
