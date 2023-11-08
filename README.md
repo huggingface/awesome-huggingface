@@ -24,10 +24,6 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [Official Course](https://huggingface.co/course) (from Hugging Face) - The official course series provided by 🤗 Hugging Face.
 * [transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials) (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
-## Awesome Collections 
-*As part of Hacktoberfest 2023, we are collecting awesome Collections!*
-* [Awesome Collections page](awesome_collections.md)
-
 ## 🧰 NLP Toolkits
 *NLP toolkits built upon Transformers. Swiss Army!*
 * [AllenNLP](https://github.com/allenai/allennlp) (from AI2) - An open-source NLP research library.
